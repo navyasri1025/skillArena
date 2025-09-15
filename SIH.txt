@@ -1,0 +1,69 @@
+
+Prompt for App Design
+
+"Design a modern, interactive educational app with four main modes: Classroom Mode, Story Teller/Explainer Mode, Teaching Mode, and Personal Development Mode. The app should have a clean, user-friendly interface with smooth navigation and a focus on engagement. Each mode must have its own unique color theme and icon for easy identification. Include animations, badges, score points, daily and weekly progress tracking, and a dashboard. Below are the details for each mode:
+
+1. Classroom Mode
+
+Features:
+
+Notes sharing (students and teachers can upload and access notes).
+
+Group discussions and live chat.
+
+Quizzes and term reminders for exams or assignments.
+
+Visual Theme: School-inspired design with a chalkboard background style.
+
+2. Story Teller/Explainer Mode
+
+Features:
+
+Narration with character voices.
+
+Interactive storytelling with animations.
+
+In-story quizzes to check understanding.
+
+Option to clear doubts about the story in real-time.
+
+Visual Theme: Illustrated, playful design with storytelling elements.
+
+3. Teaching Mode
+
+Features:
+
+Teacher tools for delivering lessons interactively.
+
+Feedback system for students.
+
+Acts as a digital classroom environment.
+
+Visual Theme: Professional, structured layout with teacher-focused tools.
+
+4. Personal Development Mode
+
+Features:
+
+Aptitude and logical reasoning practice.
+
+Ethics and values section.
+
+General knowledge (G.K.) quizzes.
+
+Progress tracking for personal growth.
+Green Career Role-Playing Scenarios: Interactive simulations where students can explore and "test drive" various green professions (e.g., Sustainable Urban Planner, Renewable Energy Engineer, Conservation Scientist) through problem-solving challenges.
+
+Visual Theme: Self-improvement theme with motivational elements.
+
+Additional Global Features
+
+Gamification: Badges, achievements, leaderboards.
+
+Progress Tracking: Daily and weekly reports with visual graphs.
+
+Notifications and reminders for quizzes and deadlines.
+
+A central dashboard to navigate between modes and track overall progress.
+
+The design should focus on interactivity, engagement, and ease of use for both students and teachers. Use vibrant yet balanced colors and smooth animations throughout the app."
